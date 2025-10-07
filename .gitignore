@@ -1,0 +1,7 @@
+# Ignore learning materials
+/extra
+
+# Ignore compiled binaries
+*.o
+*.out
+a.out
